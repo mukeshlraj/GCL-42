@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/mkrj/Github/GCL-42/Class-5",
+      "program": "/Users/mkrj/Github/GCL-42/Class-5/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
